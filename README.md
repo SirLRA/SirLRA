@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SirLRA
-- 👀 I’m interested in electrical engineering.
-- 👻 I don't do much else on GitHub...
+Electrical Engineering rules
 
 <!---
 SirLRA/SirLRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
